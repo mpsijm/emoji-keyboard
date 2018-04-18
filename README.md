@@ -12,6 +12,10 @@ Additional artwork provided by
 [Noto Emoji](https://github.com/googlei18n/noto-emoji)
 ([Apache 2.0](https://github.com/googlei18n/noto-emoji/blob/master/LICENSE)).
 
+This is a fork of the
+[original project](https://github.com/OzymandiasTheGreat/emoji-keyboard) by
+[edam](http://ed.am/) with his improvements.
+
 ## Installation
 
 ### Dependencies
@@ -76,8 +80,9 @@ into focused application.
 
 ### Search
 
-You can search by official unicode name or by :shortname:.
-Pressing `enter` will select and type the first result.
+You can search by official unicode name or by :shortname:.  Pressing `enter`
+will select the first result.  `Escape` will close the window.  Selected emojis
+are copied to the clipboard and optionally typed in to the active application.
 
 ### Hotkeys
 
