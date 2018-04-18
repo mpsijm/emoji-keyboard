@@ -137,7 +137,7 @@
 		"emoji_order": "10",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smile", "emotion", "good", "beautiful"]
+		"keywords": ["happy", "smile", "emotion", "good", "beautiful", "blush"]
 	},
 	"1f60b": {
 		"code_points": {
@@ -151,7 +151,7 @@
 		"emoji_order": "11",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smile", "silly", "emotion", "sarcastic", "good"]
+		"keywords": ["happy", "smile", "silly", "emotion", "good", "yum", "tasty", "tongue"]
 	},
 	"1f60e": {
 		"code_points": {
@@ -193,7 +193,7 @@
 		"emoji_order": "14",
 		"shortname_alternates": [],
 		"ascii": [":*", ":-*", "=*", ":^*"],
-		"keywords": ["love", "sexy"]
+		"keywords": ["love", "sexy", "blush"]
 	},
 	"1f617": {
 		"code_points": {
@@ -235,7 +235,7 @@
 		"emoji_order": "17",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sexy"]
+		"keywords": ["sexy", "blush"]
 	},
 	"263a": {
 		"code_points": {
@@ -244,13 +244,13 @@
 			"fully_qualified": "263a-fe0f",
 			"decimal": "&#9786;"
 		},
-		"name": "white smiling face",
+		"name": "smiling face",
 		"shortname": ":relaxed:",
 		"category": "people",
 		"emoji_order": "18",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smile"]
+		"keywords": ["happy", "smile", "blush"]
 	},
 	"1f642": {
 		"code_points": {
@@ -278,7 +278,7 @@
 		"emoji_order": "20",
 		"shortname_alternates": [":hugging_face:"],
 		"ascii": [],
-		"keywords": ["hug", "thank you"]
+		"keywords": ["hug", "thank you", "blush"]
 	},
 	"1f914": {
 		"code_points": {
@@ -376,7 +376,7 @@
 		"emoji_order": "27",
 		"shortname_alternates": [],
 		"ascii": [">.<"],
-		"keywords": ["sad", "angry", "cross", "emotion"]
+		"keywords": ["sad", "angry", "cross", "emotion", "blush"]
 	},
 	"1f625": {
 		"code_points": {
@@ -881,7 +881,7 @@
 		"emoji_order": "63",
 		"shortname_alternates": [],
 		"ascii": [":$", "=$"],
-		"keywords": ["emotion", "omg"]
+		"keywords": ["emotion", "omg", "blush"]
 	},
 	"1f635": {
 		"code_points": {
@@ -1035,7 +1035,7 @@
 		"emoji_order": "74",
 		"shortname_alternates": [":sick:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["sick", "vomit"]
 	},
 	"1f927": {
 		"code_points": {
@@ -1288,7 +1288,7 @@
 		"emoji_order": "92",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["cat", "animal"]
+		"keywords": ["cat", "animal", "blush"]
 	},
 	"1f640": {
 		"code_points": {
@@ -3823,7 +3823,7 @@
 		"emoji_order": "621",
 		"shortname_alternates": [":facepalm:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f926-1f3fb": {
 		"code_points": {
@@ -3837,7 +3837,7 @@
 		"emoji_order": "622",
 		"shortname_alternates": [":facepalm_tone1:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f926-1f3fc": {
 		"code_points": {
@@ -3851,7 +3851,7 @@
 		"emoji_order": "623",
 		"shortname_alternates": [":facepalm_tone2:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f926-1f3fd": {
 		"code_points": {
@@ -3865,7 +3865,7 @@
 		"emoji_order": "624",
 		"shortname_alternates": [":facepalm_tone3:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f926-1f3fe": {
 		"code_points": {
@@ -3879,7 +3879,7 @@
 		"emoji_order": "625",
 		"shortname_alternates": [":facepalm_tone4:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f926-1f3ff": {
 		"code_points": {
@@ -3893,7 +3893,7 @@
 		"emoji_order": "626",
 		"shortname_alternates": [":facepalm_tone5:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["facepalm"]
 	},
 	"1f937": {
 		"code_points": {
