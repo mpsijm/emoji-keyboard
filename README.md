@@ -81,8 +81,9 @@ into focused application.
 ### Search
 
 You can search by official unicode name or by :shortname:.  Pressing `enter`
-will select the first result.  `Escape` will close the window.  Selected emojis
-are copied to the clipboard and optionally typed in to the active application.
+will select the first result, and `escape` will close the window.  Selected
+emojis are copied to the clipboard and optionally typed in to the active
+application.
 
 ### Hotkeys
 
