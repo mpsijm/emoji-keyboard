@@ -408,12 +408,14 @@ class Search(Gtk.Window):
 		self.set_keep_above(True)
 		self.set_resizable(False)
 		self.set_icon_name(shared.icon)
-		self.set_type_hint(Gdk.WindowTypeHint.UTILITY)
+		self.set_type_hint(Gdk.WindowTypeHint.NORMAL)
+		self.set_decorated(False)
 		self.set_default_size(250, 45)
 		self.set_border_width(6)
 		self.connect('show', self.window_shown)
 		self.connect('delete-event', self.hide_window)
 		self.connect('configure-event', self.window_moved)
+		self.connect('focus-out-event', self.hide_window)
 
 		self.entry = Gtk.Entry()
 		self.add(self.entry)
@@ -449,23 +451,25 @@ class Search(Gtk.Window):
 
 	def window_shown(self, window):
 
-		self.move(*shared.settings['search_pos'])
+		# this doesn't work well (window creeps with successive set/get!) and is
+		# completely broken with changes that hide window on focus-out
+		#self.move(*shared.settings['search_pos'])
 		shared.search_visible = True
+		self.entry.set_text("")
 		return False
 
 	def hide_window(self, window, event):
-
+		self.entry.hide()
 		self.hide()
 		shared.search_visible = False
 		return True
 
 	def window_moved(self, window, event):
-
 		shared.settings['search_pos'] = (event.x, event.y)
 
 	def set_model(self, entry):
 
-		key = entry.get_text()
+		key = entry.get_text().strip()
 		if key.startswith(':'):
 			entry.set_completion(self.short_completer)
 		else:
