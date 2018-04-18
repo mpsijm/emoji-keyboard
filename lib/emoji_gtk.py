@@ -418,9 +418,10 @@ class Search(Gtk.Window):
 		self.connect('focus-out-event', self.hide_window)
 
 		self.entry = Gtk.Entry()
+		self.entry.connect('key-release-event', self.entry_key_release)
 		self.add(self.entry)
+
 		self.full_completer = Gtk.EntryCompletion()
-		self.entry.set_completion(self.full_completer)
 		self.full_completer.set_model(shared.emoji.sorted_full)
 		full_pixbuf_cell = Gtk.CellRendererPixbuf()
 		self.full_completer.pack_start(full_pixbuf_cell, False)
@@ -430,6 +431,7 @@ class Search(Gtk.Window):
 		self.full_completer.set_cell_data_func(
 			full_text_cell, shared.emoji.full_highlighter, None)
 		self.full_completer.set_match_func(shared.emoji.match_full, None)
+		self.entry.set_completion(self.full_completer)
 
 		self.short_completer = Gtk.EntryCompletion()
 		self.short_completer.set_model(shared.emoji.sorted_short)
@@ -463,6 +465,10 @@ class Search(Gtk.Window):
 		self.hide()
 		shared.search_visible = False
 		return True
+
+	def entry_key_release(self, window, event, data=None):
+		if event.keyval == Gdk.KEY_Escape:
+			self.hide_window(None, None)
 
 	def window_moved(self, window, event):
 		shared.settings['search_pos'] = (event.x, event.y)
