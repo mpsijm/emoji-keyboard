@@ -11,7 +11,7 @@
 		"emoji_order": "1",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley", "emotion"]
+		"keywords": ["happy", "smile", "emotion"]
 	},
 	"1f601": {
 		"code_points": {
@@ -25,7 +25,7 @@
 		"emoji_order": "2",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "silly", "smiley", "emotion", "good", "selfie"]
+		"keywords": ["happy", "smile", "silly", "emotion", "good", "selfie"]
 	},
 	"1f602": {
 		"code_points": {
@@ -39,7 +39,7 @@
 		"emoji_order": "3",
 		"shortname_alternates": [],
 		"ascii": [":')", ":'-)"],
-		"keywords": ["happy", "silly", "smiley", "cry", "laugh", "emotion", "sarcastic"]
+		"keywords": ["happy", "smile", "silly", "cry", "laugh", "emotion", "sarcastic"]
 	},
 	"1f923": {
 		"code_points": {
@@ -67,7 +67,7 @@
 		"emoji_order": "5",
 		"shortname_alternates": [],
 		"ascii": [":D", ":-D", "=D"],
-		"keywords": ["happy", "smiley", "emotion", "good"]
+		"keywords": ["happy", "smile", "emotion", "good"]
 	},
 	"1f604": {
 		"code_points": {
@@ -81,7 +81,7 @@
 		"emoji_order": "6",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley", "emotion"]
+		"keywords": ["happy", "smile", "emotion"]
 	},
 	"1f605": {
 		"code_points": {
@@ -95,7 +95,7 @@
 		"emoji_order": "7",
 		"shortname_alternates": [],
 		"ascii": ["':)", "':-)", "'=)", "':D", "':-D", "'=D"],
-		"keywords": ["smiley", "workout", "sweat", "emotion"]
+		"keywords": ["workout", "sweat", "emotion"]
 	},
 	"1f606": {
 		"code_points": {
@@ -109,7 +109,7 @@
 		"emoji_order": "8",
 		"shortname_alternates": [":satisfied:"],
 		"ascii": [">:)", ">;)", ">:-)", ">=)"],
-		"keywords": ["happy", "smiley", "laugh", "emotion"]
+		"keywords": ["happy", "smile", "laugh", "emotion"]
 	},
 	"1f609": {
 		"code_points": {
@@ -123,7 +123,7 @@
 		"emoji_order": "9",
 		"shortname_alternates": [],
 		"ascii": [";)", ";-)", "*-)", "*)", ";-]", ";]", ";D", ";^)"],
-		"keywords": ["silly", "smiley", "emotion"]
+		"keywords": ["silly", "emotion"]
 	},
 	"1f60a": {
 		"code_points": {
@@ -137,7 +137,7 @@
 		"emoji_order": "10",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley", "emotion", "good", "beautiful"]
+		"keywords": ["happy", "smile", "emotion", "good", "beautiful"]
 	},
 	"1f60b": {
 		"code_points": {
@@ -151,7 +151,7 @@
 		"emoji_order": "11",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "silly", "smiley", "emotion", "sarcastic", "good"]
+		"keywords": ["happy", "smile", "silly", "emotion", "sarcastic", "good"]
 	},
 	"1f60e": {
 		"code_points": {
@@ -165,7 +165,7 @@
 		"emoji_order": "12",
 		"shortname_alternates": [],
 		"ascii": ["B-)", "B)", "8)", "8-)", "B-D", "8-D"],
-		"keywords": ["silly", "smiley", "emojione", "glasses", "boys night"]
+		"keywords": ["silly", "emojione", "glasses", "cool", "dude", "shades"]
 	},
 	"1f60d": {
 		"code_points": {
@@ -179,7 +179,7 @@
 		"emoji_order": "13",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley", "love", "sex", "heart eyes", "emotion", "beautiful"]
+		"keywords": ["happy", "smile", "love", "sexy", "heart eyes", "emotion", "beautiful"]
 	},
 	"1f618": {
 		"code_points": {
@@ -193,7 +193,7 @@
 		"emoji_order": "14",
 		"shortname_alternates": [],
 		"ascii": [":*", ":-*", "=*", ":^*"],
-		"keywords": ["smiley", "love", "sexy"]
+		"keywords": ["love", "sexy"]
 	},
 	"1f617": {
 		"code_points": {
@@ -207,7 +207,7 @@
 		"emoji_order": "15",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "sexy"]
+		"keywords": ["sexy"]
 	},
 	"1f619": {
 		"code_points": {
@@ -221,7 +221,7 @@
 		"emoji_order": "16",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "sexy"]
+		"keywords": ["sexy"]
 	},
 	"1f61a": {
 		"code_points": {
@@ -235,7 +235,7 @@
 		"emoji_order": "17",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "sexy"]
+		"keywords": ["sexy"]
 	},
 	"263a": {
 		"code_points": {
@@ -250,7 +250,7 @@
 		"emoji_order": "18",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley"]
+		"keywords": ["happy", "smile"]
 	},
 	"1f642": {
 		"code_points": {
@@ -264,7 +264,7 @@
 		"emoji_order": "19",
 		"shortname_alternates": [":slightly_smiling_face:"],
 		"ascii": [":)", ":-)", "=]", "=)", ":]"],
-		"keywords": ["happy", "smiley"]
+		"keywords": ["happy", "smile"]
 	},
 	"1f917": {
 		"code_points": {
@@ -278,7 +278,7 @@
 		"emoji_order": "20",
 		"shortname_alternates": [":hugging_face:"],
 		"ascii": [],
-		"keywords": ["smiley", "hug", "thank you"]
+		"keywords": ["hug", "thank you"]
 	},
 	"1f914": {
 		"code_points": {
@@ -292,7 +292,7 @@
 		"emoji_order": "21",
 		"shortname_alternates": [":thinking_face:"],
 		"ascii": [],
-		"keywords": ["smiley", "thinking", "boys night"]
+		"keywords": ["thinking", "boys night"]
 	},
 	"1f610": {
 		"code_points": {
@@ -306,7 +306,7 @@
 		"emoji_order": "22",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["mad", "smiley", "shrug", "neutral", "emotion"]
+		"keywords": ["mad", "shrug", "neutral", "emotion"]
 	},
 	"1f611": {
 		"code_points": {
@@ -320,7 +320,7 @@
 		"emoji_order": "23",
 		"shortname_alternates": [],
 		"ascii": ["-_-", "-__-", "-___-"],
-		"keywords": ["mad", "smiley", "neutral", "emotion"]
+		"keywords": ["mad", "neutral", "emotion"]
 	},
 	"1f636": {
 		"code_points": {
@@ -334,7 +334,7 @@
 		"emoji_order": "24",
 		"shortname_alternates": [],
 		"ascii": [":-X", ":X", ":-#", ":#", "=X", "=x", ":x", ":-x", "=#"],
-		"keywords": ["mad", "smiley", "neutral", "emotion"]
+		"keywords": ["mad", "neutral", "emotion"]
 	},
 	"1f644": {
 		"code_points": {
@@ -348,7 +348,7 @@
 		"emoji_order": "25",
 		"shortname_alternates": [":face_with_rolling_eyes:"],
 		"ascii": [],
-		"keywords": ["mad", "smiley", "rolling eyes", "emotion", "sarcastic"]
+		"keywords": ["mad", "rolling eyes", "emotion", "sarcastic"]
 	},
 	"1f60f": {
 		"code_points": {
@@ -362,7 +362,7 @@
 		"emoji_order": "26",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["silly", "smiley", "sexy", "sarcastic"]
+		"keywords": ["silly", "sexy", "sarcastic"]
 	},
 	"1f623": {
 		"code_points": {
@@ -376,7 +376,7 @@
 		"emoji_order": "27",
 		"shortname_alternates": [],
 		"ascii": [">.<"],
-		"keywords": ["sad", "smiley", "angry", "emotion"]
+		"keywords": ["sad", "angry", "cross", "emotion"]
 	},
 	"1f625": {
 		"code_points": {
@@ -390,7 +390,7 @@
 		"emoji_order": "28",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "stressed", "sweat", "cry", "emotion"]
+		"keywords": ["sad", "stressed", "sweat", "cry", "emotion"]
 	},
 	"1f62e": {
 		"code_points": {
@@ -404,7 +404,7 @@
 		"emoji_order": "29",
 		"shortname_alternates": [],
 		"ascii": [":-O", ":O", ":-o", ":o", "O_O", ">:O"],
-		"keywords": ["smiley", "surprised", "wow", "emotion"]
+		"keywords": ["surprised", "wow", "emotion", "shocked"]
 	},
 	"1f910": {
 		"code_points": {
@@ -418,7 +418,7 @@
 		"emoji_order": "30",
 		"shortname_alternates": [":zipper_mouth_face:"],
 		"ascii": [],
-		"keywords": ["mad", "smiley"]
+		"keywords": ["mad"]
 	},
 	"1f62f": {
 		"code_points": {
@@ -432,7 +432,7 @@
 		"emoji_order": "31",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "surprised", "wow"]
+		"keywords": ["surprised", "wow", "worried"]
 	},
 	"1f62a": {
 		"code_points": {
@@ -446,7 +446,7 @@
 		"emoji_order": "32",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "sick", "emotion"]
+		"keywords": ["tired", "emotion"]
 	},
 	"1f62b": {
 		"code_points": {
@@ -460,7 +460,7 @@
 		"emoji_order": "33",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "tired", "emotion"]
+		"keywords": ["sad", "tired", "emotion"]
 	},
 	"1f634": {
 		"code_points": {
@@ -474,7 +474,7 @@
 		"emoji_order": "34",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "tired", "emotion", "goodnight"]
+		"keywords": ["tired", "emotion", "goodnight"]
 	},
 	"1f60c": {
 		"code_points": {
@@ -488,7 +488,7 @@
 		"emoji_order": "35",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "emotion"]
+		"keywords": ["emotion"]
 	},
 	"1f913": {
 		"code_points": {
@@ -502,7 +502,7 @@
 		"emoji_order": "36",
 		"shortname_alternates": [":nerd_face:"],
 		"ascii": [],
-		"keywords": ["smiley", "glasses"]
+		"keywords": ["glasses"]
 	},
 	"1f61b": {
 		"code_points": {
@@ -516,7 +516,7 @@
 		"emoji_order": "37",
 		"shortname_alternates": [],
 		"ascii": [":P", ":-P", "=P", ":-p", ":p", "=p", ":-\u00de", ":\u00de", ":\u00fe", ":-\u00fe", ":-b", ":b", "d:"],
-		"keywords": ["smiley", "sex", "emotion"]
+		"keywords": ["sex", "emotion"]
 	},
 	"1f61c": {
 		"code_points": {
@@ -530,7 +530,7 @@
 		"emoji_order": "38",
 		"shortname_alternates": [],
 		"ascii": [">:P", "X-P", "x-p"],
-		"keywords": ["happy", "smiley", "emotion", "parties"]
+		"keywords": ["happy", "smile", "emotion", "parties"]
 	},
 	"1f61d": {
 		"code_points": {
@@ -544,7 +544,7 @@
 		"emoji_order": "39",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smiley", "emotion"]
+		"keywords": ["happy", "emotion"]
 	},
 	"1f924": {
 		"code_points": {
@@ -572,7 +572,7 @@
 		"emoji_order": "41",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "mad", "smiley", "tired", "emotion"]
+		"keywords": ["sad", "mad", "tired", "emotion"]
 	},
 	"1f613": {
 		"code_points": {
@@ -586,7 +586,7 @@
 		"emoji_order": "42",
 		"shortname_alternates": [],
 		"ascii": ["':(", "':-(", "'=("],
-		"keywords": ["sad", "smiley", "stressed", "sweat", "emotion"]
+		"keywords": ["sad", "stressed", "sweat", "emotion"]
 	},
 	"1f614": {
 		"code_points": {
@@ -600,7 +600,7 @@
 		"emoji_order": "43",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "emotion", "rip"]
+		"keywords": ["sad", "emotion"]
 	},
 	"1f615": {
 		"code_points": {
@@ -614,7 +614,7 @@
 		"emoji_order": "44",
 		"shortname_alternates": [],
 		"ascii": [">:\\", ">:\/", ":-\/", ":-.", ":\/", ":\\", "=\/", "=\\", ":L", "=L"],
-		"keywords": ["smiley", "surprised", "emotion"]
+		"keywords": ["surprised", "emotion"]
 	},
 	"1f643": {
 		"code_points": {
@@ -628,7 +628,7 @@
 		"emoji_order": "45",
 		"shortname_alternates": [":upside_down_face:"],
 		"ascii": [],
-		"keywords": ["silly", "smiley", "sarcastic"]
+		"keywords": ["silly", "sarcastic"]
 	},
 	"1f911": {
 		"code_points": {
@@ -642,7 +642,7 @@
 		"emoji_order": "46",
 		"shortname_alternates": [":money_mouth_face:"],
 		"ascii": [],
-		"keywords": ["smiley", "win", "money", "emotion", "boys night"]
+		"keywords": ["win", "money", "emotion", "boys night"]
 	},
 	"1f632": {
 		"code_points": {
@@ -656,7 +656,7 @@
 		"emoji_order": "47",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "surprised", "wow", "emotion", "omg"]
+		"keywords": ["surprised", "wow", "emotion", "omg", "shocked", "worried"]
 	},
 	"2639": {
 		"code_points": {
@@ -671,7 +671,7 @@
 		"emoji_order": "48",
 		"shortname_alternates": [":white_frowning_face:"],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "emotion"]
+		"keywords": ["sad", "emotion", "shocked", "worried"]
 	},
 	"1f641": {
 		"code_points": {
@@ -685,7 +685,7 @@
 		"emoji_order": "49",
 		"shortname_alternates": [":slightly_frowning_face:"],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "emotion"]
+		"keywords": ["sad", "emotion"]
 	},
 	"1f616": {
 		"code_points": {
@@ -699,7 +699,7 @@
 		"emoji_order": "50",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "angry", "emotion"]
+		"keywords": ["sad", "doh", "damn", "emotion"]
 	},
 	"1f61e": {
 		"code_points": {
@@ -713,7 +713,7 @@
 		"emoji_order": "51",
 		"shortname_alternates": [],
 		"ascii": [">:[", ":-(", ":(", ":-[", ":[", "=("],
-		"keywords": ["sad", "smiley", "tired", "emotion"]
+		"keywords": ["sad", "tired", "emotion"]
 	},
 	"1f61f": {
 		"code_points": {
@@ -727,7 +727,7 @@
 		"emoji_order": "52",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "emotion"]
+		"keywords": ["sad", "emotion"]
 	},
 	"1f624": {
 		"code_points": {
@@ -741,7 +741,7 @@
 		"emoji_order": "53",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["mad", "smiley", "angry", "emotion", "steam"]
+		"keywords": ["mad", "success", "emotion", "steam"]
 	},
 	"1f622": {
 		"code_points": {
@@ -755,7 +755,7 @@
 		"emoji_order": "54",
 		"shortname_alternates": [],
 		"ascii": [":'(", ":'-(", ";(", ";-("],
-		"keywords": ["sad", "smiley", "cry", "emotion", "rip", "heartbreak"]
+		"keywords": ["sad", "cry", "emotion", "rip", "tears"]
 	},
 	"1f62d": {
 		"code_points": {
@@ -769,7 +769,7 @@
 		"emoji_order": "55",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "cry", "emotion", "heartbreak"]
+		"keywords": ["sad", "cry", "emotion", "tears"]
 	},
 	"1f626": {
 		"code_points": {
@@ -783,7 +783,7 @@
 		"emoji_order": "56",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "surprised", "emotion"]
+		"keywords": ["sad", "surprised", "emotion", "shocked", "worried"]
 	},
 	"1f627": {
 		"code_points": {
@@ -797,7 +797,7 @@
 		"emoji_order": "57",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "surprised", "emotion"]
+		"keywords": ["sad", "surprised", "emotion", "shocked", "worried"]
 	},
 	"1f628": {
 		"code_points": {
@@ -811,7 +811,7 @@
 		"emoji_order": "58",
 		"shortname_alternates": [],
 		"ascii": ["D:"],
-		"keywords": ["smiley", "surprised", "emotion"]
+		"keywords": ["surprised", "emotion", "worried", "horrified"]
 	},
 	"1f629": {
 		"code_points": {
@@ -825,7 +825,7 @@
 		"emoji_order": "59",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "smiley", "tired", "stressed", "emotion"]
+		"keywords": ["sad", "tired", "stressed", "emotion"]
 	},
 	"1f62c": {
 		"code_points": {
@@ -839,7 +839,7 @@
 		"emoji_order": "60",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["silly", "smiley", "emotion", "selfie"]
+		"keywords": ["silly", "emotion", "selfie"]
 	},
 	"1f630": {
 		"code_points": {
@@ -853,7 +853,7 @@
 		"emoji_order": "61",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "sweat", "emotion"]
+		"keywords": ["sweat", "emotion"]
 	},
 	"1f631": {
 		"code_points": {
@@ -867,7 +867,7 @@
 		"emoji_order": "62",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "surprised", "wow", "emotion", "omg"]
+		"keywords": ["surprised", "wow", "emotion", "omg", "shocked", "worried", "horrified"]
 	},
 	"1f633": {
 		"code_points": {
@@ -881,7 +881,7 @@
 		"emoji_order": "63",
 		"shortname_alternates": [],
 		"ascii": [":$", "=$"],
-		"keywords": ["smiley", "emotion", "omg"]
+		"keywords": ["emotion", "omg"]
 	},
 	"1f635": {
 		"code_points": {
@@ -895,7 +895,7 @@
 		"emoji_order": "64",
 		"shortname_alternates": [],
 		"ascii": ["#-)", "#)", "%-)", "%)", "X)", "X-)"],
-		"keywords": ["smiley", "surprised", "dead", "wow", "emotion", "omg"]
+		"keywords": ["surprised", "dead", "wow", "emotion", "omg"]
 	},
 	"1f621": {
 		"code_points": {
@@ -909,7 +909,7 @@
 		"emoji_order": "65",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["mad", "smiley", "angry", "emotion"]
+		"keywords": ["mad", "angry", "cross", "emotion"]
 	},
 	"1f620": {
 		"code_points": {
@@ -923,7 +923,7 @@
 		"emoji_order": "66",
 		"shortname_alternates": [],
 		"ascii": [">:(", ">:-(", ":@"],
-		"keywords": ["mad", "smiley", "emotion"]
+		"keywords": ["mad", "cross", "emotion"]
 	},
 	"1f607": {
 		"code_points": {
@@ -937,7 +937,7 @@
 		"emoji_order": "67",
 		"shortname_alternates": [],
 		"ascii": ["O:-)", "0:-3", "0:3", "0:-)", "0:)", "0;^)", "O:)", "O;-)", "O=)", "0;-)", "O:-3", "O:3"],
-		"keywords": ["smiley", "emotion"]
+		"keywords": ["emotion"]
 	},
 	"1f920": {
 		"code_points": {
@@ -993,7 +993,7 @@
 		"emoji_order": "71",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "dead", "health", "sick"]
+		"keywords": ["dead", "health", "sick"]
 	},
 	"1f912": {
 		"code_points": {
@@ -1007,7 +1007,7 @@
 		"emoji_order": "72",
 		"shortname_alternates": [":face_with_thermometer:"],
 		"ascii": [],
-		"keywords": ["smiley", "health", "sick", "emotion"]
+		"keywords": ["health", "sick", "emotion"]
 	},
 	"1f915": {
 		"code_points": {
@@ -1021,7 +1021,7 @@
 		"emoji_order": "73",
 		"shortname_alternates": [":face_with_head_bandage:"],
 		"ascii": [],
-		"keywords": ["smiley", "health", "sick", "emotion"]
+		"keywords": ["health", "sick", "emotion"]
 	},
 	"1f922": {
 		"code_points": {
@@ -1063,7 +1063,7 @@
 		"emoji_order": "76",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["silly", "smiley", "angry", "monster", "devil", "boys night"]
+		"keywords": ["silly", "angry", "cross", "monster", "devil"]
 	},
 	"1f47f": {
 		"code_points": {
@@ -1077,7 +1077,7 @@
 		"emoji_order": "77",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["smiley", "monster", "devil", "wth"]
+		"keywords": ["monster", "devil", "wth"]
 	},
 	"1f479": {
 		"code_points": {
@@ -1218,7 +1218,7 @@
 		"emoji_order": "87",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "cat", "animal"]
+		"keywords": ["happy", "smile", "cat", "animal", "grin"]
 	},
 	"1f638": {
 		"code_points": {
@@ -1232,7 +1232,7 @@
 		"emoji_order": "88",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "cat", "animal"]
+		"keywords": ["happy", "smile", "cat", "animal"]
 	},
 	"1f639": {
 		"code_points": {
@@ -1246,7 +1246,7 @@
 		"emoji_order": "89",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "silly", "cry", "laugh", "cat", "animal", "sarcastic"]
+		"keywords": ["happy", "smile", "silly", "cry", "laugh", "cat", "animal", "sarcastic"]
 	},
 	"1f63b": {
 		"code_points": {
@@ -1260,7 +1260,7 @@
 		"emoji_order": "90",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["heart eyes", "cat", "animal", "beautiful"]
+		"keywords": ["happy", "smile", "heart eyes", "cat", "animal", "beautiful"]
 	},
 	"1f63c": {
 		"code_points": {
@@ -9092,7 +9092,7 @@
 		"emoji_order": "1288",
 		"shortname_alternates": [],
 		"ascii": ["<\/3"],
-		"keywords": ["love", "symbol", "heartbreak"]
+		"keywords": ["love", "symbol"]
 	},
 	"1f495": {
 		"code_points": {
@@ -9475,7 +9475,7 @@
 		"emoji_order": "1315",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["fashion", "glasses", "accessories"]
+		"keywords": ["fashion", "glasses", "accessories", "cool", "dude", "shades"]
 	},
 	"1f454": {
 		"code_points": {
