@@ -95,7 +95,7 @@
 		"emoji_order": "7",
 		"shortname_alternates": [],
 		"ascii": ["':)", "':-)", "'=)", "':D", "':-D", "'=D"],
-		"keywords": ["workout", "sweat", "emotion"]
+		"keywords": ["workout", "exercise", "sweat", "gym"]
 	},
 	"1f606": {
 		"code_points": {
@@ -671,7 +671,7 @@
 		"emoji_order": "48",
 		"shortname_alternates": [":white_frowning_face:"],
 		"ascii": [],
-		"keywords": ["sad", "emotion", "shocked", "worried"]
+		"keywords": ["sad", "emotion", "worried", "grumpy", "unhappy"]
 	},
 	"1f641": {
 		"code_points": {
@@ -685,7 +685,7 @@
 		"emoji_order": "49",
 		"shortname_alternates": [":slightly_frowning_face:"],
 		"ascii": [],
-		"keywords": ["sad", "emotion"]
+		"keywords": ["sad", "grumpy", "unhappy"]
 	},
 	"1f616": {
 		"code_points": {
@@ -783,7 +783,7 @@
 		"emoji_order": "56",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sad", "surprised", "emotion", "shocked", "worried"]
+		"keywords": ["sad", "surprised", "shocked", "worried", "unhappy"]
 	},
 	"1f627": {
 		"code_points": {
@@ -1386,7 +1386,7 @@
 		"emoji_order": "99",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "baby", "diversity"]
+		"keywords": ["people", "baby", "male", "child", "kid", "son"]
 	},
 	"1f466-1f3fb": {
 		"code_points": {
@@ -1470,7 +1470,7 @@
 		"emoji_order": "105",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "baby", "diversity"]
+		"keywords": ["people", "baby", "female", "child", "kid", "daughter"]
 	},
 	"1f467-1f3fb": {
 		"code_points": {
@@ -1554,7 +1554,7 @@
 		"emoji_order": "111",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "men", "sex", "diversity", "selfie", "boys night"]
+		"keywords": ["people", "men", "male", "guy", "dad", "father", "bloke", "chap", "dude"]
 	},
 	"1f468-1f3fb": {
 		"code_points": {
@@ -1638,7 +1638,7 @@
 		"emoji_order": "117",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "sex", "diversity", "feminist", "selfie", "girls night"]
+		"keywords": ["people", "women", "female", "girl", "mum", "mother", "lady"]
 	},
 	"1f469-1f3fb": {
 		"code_points": {
@@ -1722,7 +1722,7 @@
 		"emoji_order": "123",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "men", "old people", "diversity"]
+		"keywords": ["people", "men", "male", "grandpa", "grandad", "grandfather", "pensioner"]
 	},
 	"1f474-1f3fb": {
 		"code_points": {
@@ -1806,7 +1806,7 @@
 		"emoji_order": "129",
 		"shortname_alternates": [":grandma:"],
 		"ascii": [],
-		"keywords": ["people", "old people", "diversity"]
+		"keywords": ["people", "grandma", "grandmother", "pensioner"]
 	},
 	"1f475-1f3fb": {
 		"code_points": {
@@ -1890,7 +1890,7 @@
 		"emoji_order": "135",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "baby", "diversity"]
+		"keywords": ["people", "baby", "todler", "infant", "child", "son", "daughter", "kid"]
 	},
 	"1f476-1f3fb": {
 		"code_points": {
@@ -1974,7 +1974,7 @@
 		"emoji_order": "141",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "diversity", "omg"]
+		"keywords": ["people", "omg", "todler", "child", "kid"]
 	},
 	"1f47c-1f3fb": {
 		"code_points": {
@@ -2058,7 +2058,7 @@
 		"emoji_order": "339",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "men", "diversity", "job", "police", "911"]
+		"keywords": ["people", "hat", "men", "job", "police", "911", "999", "emergency"]
 	},
 	"1f46e-1f3fb": {
 		"code_points": {
@@ -2143,7 +2143,7 @@
 		"emoji_order": "357",
 		"shortname_alternates": [":sleuth_or_spy:"],
 		"ascii": [],
-		"keywords": ["people", "hat", "men", "glasses", "diversity", "job"]
+		"keywords": ["people", "hat", "men", "glasses", "job"]
 	},
 	"1f575-1f3fb": {
 		"code_points": {
@@ -2227,7 +2227,7 @@
 		"emoji_order": "375",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "men", "diversity", "job"]
+		"keywords": ["people", "hat", "men", "job"]
 	},
 	"1f482-1f3fb": {
 		"code_points": {
@@ -2311,7 +2311,7 @@
 		"emoji_order": "393",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "men", "diversity", "job"]
+		"keywords": ["people", "hat", "men", "job"]
 	},
 	"1f477-1f3fb": {
 		"code_points": {
@@ -2395,7 +2395,7 @@
 		"emoji_order": "411",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "diversity"]
+		"keywords": ["people", "hat", "asian", "islam", "muslim", "sheikh", "arab"]
 	},
 	"1f473-1f3fb": {
 		"code_points": {
@@ -2479,7 +2479,7 @@
 		"emoji_order": "429",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "men", "diversity"]
+		"keywords": ["people", "men"]
 	},
 	"1f471-1f3fb": {
 		"code_points": {
@@ -2563,7 +2563,7 @@
 		"emoji_order": "447",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "winter", "holidays", "christmas", "diversity", "santa"]
+		"keywords": ["people", "hat", "winter", "holidays", "christmas", "xmas", "santa"]
 	},
 	"1f385-1f3fb": {
 		"code_points": {
@@ -2731,7 +2731,7 @@
 		"emoji_order": "459",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity", "beautiful", "girls night"]
+		"keywords": ["people", "women", "female", "girl", "beautiful"]
 	},
 	"1f478-1f3fb": {
 		"code_points": {
@@ -2899,7 +2899,7 @@
 		"emoji_order": "471",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "wedding", "women", "diversity"]
+		"keywords": ["people", "wedding", "female", "women", "girl"]
 	},
 	"1f470-1f3fb": {
 		"code_points": {
@@ -3151,7 +3151,7 @@
 		"emoji_order": "489",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "hat", "men", "diversity"]
+		"keywords": ["people", "hat", "men"]
 	},
 	"1f472-1f3fb": {
 		"code_points": {
@@ -3235,7 +3235,7 @@
 		"emoji_order": "495",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women", "sad", "unhappy", "grumpy"]
 	},
 	"1f64d-1f3fb": {
 		"code_points": {
@@ -3319,7 +3319,7 @@
 		"emoji_order": "513",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women", "cross", "angry", "grumpy"]
 	},
 	"1f64e-1f3fb": {
 		"code_points": {
@@ -3403,7 +3403,7 @@
 		"emoji_order": "531",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity", "girls night"]
+		"keywords": ["people", "women"]
 	},
 	"1f645-1f3fb": {
 		"code_points": {
@@ -3487,7 +3487,7 @@
 		"emoji_order": "549",
 		"shortname_alternates": [],
 		"ascii": ["*\\0\/*", "\\0\/", "*\\O\/*", "\\O\/"],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women", "yes"]
 	},
 	"1f646-1f3fb": {
 		"code_points": {
@@ -3571,7 +3571,7 @@
 		"emoji_order": "567",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women"]
 	},
 	"1f481-1f3fb": {
 		"code_points": {
@@ -3655,7 +3655,7 @@
 		"emoji_order": "585",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women", "question", "hello"]
 	},
 	"1f64b-1f3fb": {
 		"code_points": {
@@ -3739,7 +3739,7 @@
 		"emoji_order": "603",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "pray", "diversity"]
+		"keywords": ["people", "pray", "religious", "christian", "muslim", "islam", "jewish"]
 	},
 	"1f647-1f3fb": {
 		"code_points": {
@@ -3991,7 +3991,7 @@
 		"emoji_order": "657",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women"]
 	},
 	"1f486-1f3fb": {
 		"code_points": {
@@ -4075,7 +4075,7 @@
 		"emoji_order": "675",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "diversity"]
+		"keywords": ["people", "women"]
 	},
 	"1f487-1f3fb": {
 		"code_points": {
@@ -4159,7 +4159,7 @@
 		"emoji_order": "693",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "men", "diversity"]
+		"keywords": ["people", "men"]
 	},
 	"1f6b6-1f3fb": {
 		"code_points": {
@@ -4243,7 +4243,7 @@
 		"emoji_order": "711",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "men", "diversity", "boys night", "run"]
+		"keywords": ["people", "men", "jogging", "marathon", "sport", "workout", "exercise", "gym"]
 	},
 	"1f3c3-1f3fb": {
 		"code_points": {
@@ -4327,7 +4327,7 @@
 		"emoji_order": "729",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "sexy", "diversity", "girls night", "dance"]
+		"keywords": ["people", "women", "sexy"]
 	},
 	"1f483-1f3fb": {
 		"code_points": {
@@ -4495,7 +4495,7 @@
 		"emoji_order": "741",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "sexy", "girls night", "boys night", "parties", "dance"]
+		"keywords": ["people", "women", "sexy", "parties", "dance"]
 	},
 	"1f574": {
 		"code_points": {
@@ -4709,7 +4709,7 @@
 		"emoji_order": "800",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["men", "vacation", "tropical", "sport", "diversity"]
+		"keywords": ["men", "vacation", "tropical", "sport"]
 	},
 	"1f3c4-1f3fb": {
 		"code_points": {
@@ -4793,7 +4793,7 @@
 		"emoji_order": "818",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["men", "workout", "sport", "rowing", "diversity"]
+		"keywords": ["men", "workout", "exercise", "sport", "rowing", "gym"]
 	},
 	"1f6a3-1f3fb": {
 		"code_points": {
@@ -4877,7 +4877,7 @@
 		"emoji_order": "836",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["workout", "sport", "swim", "diversity"]
+		"keywords": ["workout", "exercise", "sport", "gym"]
 	},
 	"1f3ca-1f3fb": {
 		"code_points": {
@@ -4962,7 +4962,7 @@
 		"emoji_order": "854",
 		"shortname_alternates": [":person_with_ball:"],
 		"ascii": [],
-		"keywords": ["men", "game", "ball", "sport", "basketball", "diversity"]
+		"keywords": ["men", "game", "ball", "sport", "basketball", "football", "soccer"]
 	},
 	"26f9-1f3fb": {
 		"code_points": {
@@ -5047,7 +5047,7 @@
 		"emoji_order": "872",
 		"shortname_alternates": [":weight_lifter:"],
 		"ascii": [],
-		"keywords": ["men", "workout", "flex", "sport", "weight lifting", "win", "diversity"]
+		"keywords": ["men", "workout", "exercise", "flex", "sport", "win", "gym"]
 	},
 	"1f3cb-1f3fb": {
 		"code_points": {
@@ -5131,7 +5131,7 @@
 		"emoji_order": "890",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["men", "workout", "sport", "bike", "diversity"]
+		"keywords": ["people", "men", "workout", "exercise", "sport", "bike", "gym"]
 	},
 	"1f6b4-1f3fb": {
 		"code_points": {
@@ -5215,7 +5215,7 @@
 		"emoji_order": "908",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["men", "sport", "bike", "diversity"]
+		"keywords": ["people", "men", "sport", "bike"]
 	},
 	"1f6b5-1f3fb": {
 		"code_points": {
@@ -5763,7 +5763,7 @@
 		"emoji_order": "1024",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "men", "sex", "lgbt"]
+		"keywords": ["people", "gay", "men", "sex", "homosexual"]
 	},
 	"1f46d": {
 		"code_points": {
@@ -5777,7 +5777,7 @@
 		"emoji_order": "1030",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "women", "sex", "lgbt", "lesbian", "girls night"]
+		"keywords": ["people", "women", "sex", "lesbian", "gay"]
 	},
 	"1f48f": {
 		"code_points": {
@@ -5806,7 +5806,7 @@
 		"emoji_order": "1038",
 		"shortname_alternates": [":couplekiss_mm:"],
 		"ascii": [],
-		"keywords": ["people", "gay", "men", "love", "sex", "lgbt"]
+		"keywords": ["people", "gay", "men", "love", "sex", "homosexual"]
 	},
 	"1f469-2764-1f48b-1f469": {
 		"code_points": {
@@ -5821,7 +5821,7 @@
 		"emoji_order": "1039",
 		"shortname_alternates": [":couplekiss_ww:"],
 		"ascii": [],
-		"keywords": ["people", "women", "love", "sex", "lgbt", "lesbian"]
+		"keywords": ["people", "women", "love", "sex", "lesbian", "gay"]
 	},
 	"1f491": {
 		"code_points": {
@@ -5850,7 +5850,7 @@
 		"emoji_order": "1042",
 		"shortname_alternates": [":couple_with_heart_mm:"],
 		"ascii": [],
-		"keywords": ["people", "gay", "men", "love", "sex", "lgbt"]
+		"keywords": ["people", "gay", "men", "love", "sex", "homosexual"]
 	},
 	"1f469-2764-1f469": {
 		"code_points": {
@@ -5865,7 +5865,7 @@
 		"emoji_order": "1043",
 		"shortname_alternates": [":couple_with_heart_ww:"],
 		"ascii": [],
-		"keywords": ["people", "women", "love", "sex", "lgbt"]
+		"keywords": ["people", "women", "love", "sex", "lesbian", "gay"]
 	},
 	"1f46a": {
 		"code_points": {
@@ -5894,7 +5894,7 @@
 		"emoji_order": "1051",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "baby"]
+		"keywords": ["people", "family", "baby", "daughter", "children", "child", "kids"]
 	},
 	"1f468-1f469-1f467-1f466": {
 		"code_points": {
@@ -5909,7 +5909,7 @@
 		"emoji_order": "1052",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "baby"]
+		"keywords": ["people", "family", "baby", "son", "children", "child", "kids"]
 	},
 	"1f468-1f469-1f466-1f466": {
 		"code_points": {
@@ -5924,7 +5924,7 @@
 		"emoji_order": "1053",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "baby"]
+		"keywords": ["people", "family", "baby", "sons", "children", "child", "kids"]
 	},
 	"1f468-1f469-1f467-1f467": {
 		"code_points": {
@@ -5939,7 +5939,7 @@
 		"emoji_order": "1054",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "baby"]
+		"keywords": ["people", "family", "baby", "daughters", "children", "child", "kids"]
 	},
 	"1f468-1f468-1f466": {
 		"code_points": {
@@ -5954,7 +5954,7 @@
 		"emoji_order": "1055",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "family", "men", "baby", "lgbt"]
+		"keywords": ["people", "gay", "family", "men", "baby", "homosexual", "son", "children", "child", "kids"]
 	},
 	"1f468-1f468-1f467": {
 		"code_points": {
@@ -5969,7 +5969,7 @@
 		"emoji_order": "1056",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "family", "men", "baby", "lgbt"]
+		"keywords": ["people", "gay", "family", "men", "baby", "homosexual", "daughter", "children", "child", "kids"]
 	},
 	"1f468-1f468-1f467-1f466": {
 		"code_points": {
@@ -5984,7 +5984,7 @@
 		"emoji_order": "1057",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "family", "men", "baby", "lgbt"]
+		"keywords": ["people", "gay", "family", "men", "baby", "homosexual", "son", "daughter", "children", "child", "kids"]
 	},
 	"1f468-1f468-1f466-1f466": {
 		"code_points": {
@@ -5999,7 +5999,7 @@
 		"emoji_order": "1058",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "family", "men", "baby", "lgbt"]
+		"keywords": ["people", "gay", "family", "men", "baby", "homosexual", "sons", "children", "child", "kids"]
 	},
 	"1f468-1f468-1f467-1f467": {
 		"code_points": {
@@ -6014,7 +6014,7 @@
 		"emoji_order": "1059",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "gay", "family", "men", "baby", "lgbt"]
+		"keywords": ["people", "gay", "family", "men", "baby", "homosexual", "daughters", "children", "child", "kids"]
 	},
 	"1f469-1f469-1f466": {
 		"code_points": {
@@ -6029,7 +6029,7 @@
 		"emoji_order": "1060",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "women", "baby", "lgbt", "lesbian"]
+		"keywords": ["people", "family", "women", "baby", "lesbian", "gay", "son", "children", "child", "kids"]
 	},
 	"1f469-1f469-1f467": {
 		"code_points": {
@@ -6044,7 +6044,7 @@
 		"emoji_order": "1061",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "women", "baby", "lgbt", "lesbian"]
+		"keywords": ["people", "family", "women", "baby", "lesbian", "gay", "daughter", "children", "child", "kids"]
 	},
 	"1f469-1f469-1f467-1f466": {
 		"code_points": {
@@ -6059,7 +6059,7 @@
 		"emoji_order": "1062",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "women", "baby", "lgbt", "lesbian"]
+		"keywords": ["people", "family", "women", "baby", "lesbian", "gay", "son", "daughter", "children", "child", "kids"]
 	},
 	"1f469-1f469-1f466-1f466": {
 		"code_points": {
@@ -6074,7 +6074,7 @@
 		"emoji_order": "1063",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "women", "baby", "lgbt", "lesbian"]
+		"keywords": ["people", "family", "women", "baby", "lesbian", "gay", "sons", "children", "child", "kids"]
 	},
 	"1f469-1f469-1f467-1f467": {
 		"code_points": {
@@ -6089,7 +6089,7 @@
 		"emoji_order": "1064",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "women", "baby", "lgbt", "lesbian"]
+		"keywords": ["people", "family", "women", "baby", "lesbian", "gay", "daughters", "children", "child", "kids"]
 	},
 	"1f3fb": {
 		"code_points": {
@@ -6173,7 +6173,7 @@
 		"emoji_order": "1080",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "workout", "flex", "win", "diversity", "feminist", "boys night"]
+		"keywords": ["body", "hands", "workout", "exercise", "flex", "win", "gym"]
 	},
 	"1f4aa-1f3fb": {
 		"code_points": {
@@ -6341,7 +6341,7 @@
 		"emoji_order": "1092",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"1f448-1f3fb": {
 		"code_points": {
@@ -6425,7 +6425,7 @@
 		"emoji_order": "1098",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"1f449-1f3fb": {
 		"code_points": {
@@ -6510,7 +6510,7 @@
 		"emoji_order": "1104",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "emojione", "diversity"]
+		"keywords": ["body", "hands", "emojione"]
 	},
 	"261d-1f3fb": {
 		"code_points": {
@@ -6594,7 +6594,7 @@
 		"emoji_order": "1110",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "diversity"]
+		"keywords": ["body", "hands"]
 	},
 	"1f446-1f3fb": {
 		"code_points": {
@@ -6678,7 +6678,7 @@
 		"emoji_order": "1116",
 		"shortname_alternates": [":reversed_hand_with_middle_finger_extended:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "middle finger", "diversity"]
+		"keywords": ["body", "hands"]
 	},
 	"1f595-1f3fb": {
 		"code_points": {
@@ -6762,7 +6762,7 @@
 		"emoji_order": "1122",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "diversity"]
+		"keywords": ["body", "hands"]
 	},
 	"1f447-1f3fb": {
 		"code_points": {
@@ -6847,7 +6847,7 @@
 		"emoji_order": "1128",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "thank you", "peace", "diversity", "girls night"]
+		"keywords": ["body", "hands", "hi", "thank you", "peace"]
 	},
 	"270c-1f3fb": {
 		"code_points": {
@@ -7015,7 +7015,7 @@
 		"emoji_order": "1140",
 		"shortname_alternates": [":raised_hand_with_part_between_middle_and_ring_fingers:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"1f596-1f3fb": {
 		"code_points": {
@@ -7099,7 +7099,7 @@
 		"emoji_order": "1146",
 		"shortname_alternates": [":sign_of_the_horns:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity", "boys night", "parties"]
+		"keywords": ["body", "hands", "parties", "heavy metal", "rock"]
 	},
 	"1f918-1f3fb": {
 		"code_points": {
@@ -7268,7 +7268,7 @@
 		"emoji_order": "1158",
 		"shortname_alternates": [":raised_hand_with_fingers_splayed:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"1f590-1f3fb": {
 		"code_points": {
@@ -7352,7 +7352,7 @@
 		"emoji_order": "1164",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity", "girls night"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"270b-1f3fb": {
 		"code_points": {
@@ -7436,7 +7436,7 @@
 		"emoji_order": "1170",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity", "perfect", "good", "beautiful"]
+		"keywords": ["body", "hands", "hi", "perfect", "good", "beautiful", "yes"]
 	},
 	"1f44c-1f3fb": {
 		"code_points": {
@@ -7520,7 +7520,7 @@
 		"emoji_order": "1176",
 		"shortname_alternates": [":+1:", ":thumbup:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "luck", "thank you", "diversity", "perfect", "good", "beautiful"]
+		"keywords": ["body", "hands", "hi", "luck", "thank you", "perfect", "good", "beautiful", "yes"]
 	},
 	"1f44d-1f3fb": {
 		"code_points": {
@@ -7604,7 +7604,7 @@
 		"emoji_order": "1182",
 		"shortname_alternates": [":-1:", ":thumbdown:"],
 		"ascii": [],
-		"keywords": ["body", "hands", "diversity"]
+		"keywords": ["body", "hands", "no", "bad"]
 	},
 	"1f44e-1f3fb": {
 		"code_points": {
@@ -7688,7 +7688,7 @@
 		"emoji_order": "1188",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "fist bump", "diversity", "condolence"]
+		"keywords": ["body", "hands", "power", "revolution"]
 	},
 	"270a-1f3fb": {
 		"code_points": {
@@ -7772,7 +7772,7 @@
 		"emoji_order": "1194",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "fist bump", "diversity", "boys night"]
+		"keywords": ["body", "hands", "hi", "fist bump"]
 	},
 	"1f44a-1f3fb": {
 		"code_points": {
@@ -8108,7 +8108,7 @@
 		"emoji_order": "1218",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "diversity"]
+		"keywords": ["body", "hands", "hi"]
 	},
 	"1f44b-1f3fb": {
 		"code_points": {
@@ -8192,7 +8192,7 @@
 		"emoji_order": "1224",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "win", "diversity", "good", "beautiful"]
+		"keywords": ["body", "hands", "win", "good", "beautiful", "celebrate"]
 	},
 	"1f44f-1f3fb": {
 		"code_points": {
@@ -8277,7 +8277,7 @@
 		"emoji_order": "1230",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "write", "diversity"]
+		"keywords": ["body", "hands", "pen"]
 	},
 	"270d-1f3fb": {
 		"code_points": {
@@ -8361,7 +8361,7 @@
 		"emoji_order": "1236",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "diversity", "condolence"]
+		"keywords": ["body", "hands"]
 	},
 	"1f450-1f3fb": {
 		"code_points": {
@@ -8445,7 +8445,7 @@
 		"emoji_order": "1242",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "diversity", "perfect", "good", "parties"]
+		"keywords": ["body", "hands", "perfect", "good", "party", "parties"]
 	},
 	"1f64c-1f3fb": {
 		"code_points": {
@@ -8529,7 +8529,7 @@
 		"emoji_order": "1248",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "hands", "hi", "luck", "thank you", "pray", "diversity", "scientology"]
+		"keywords": ["body", "hands", "hi", "luck", "thank you", "pray", "religious", "christian", "muslim", "islam", "jewish"]
 	},
 	"1f64f-1f3fb": {
 		"code_points": {
@@ -8697,7 +8697,7 @@
 		"emoji_order": "1260",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["women", "body", "hands", "nailpolish", "diversity", "girls night"]
+		"keywords": ["women", "body", "hands", "nailpolish"]
 	},
 	"1f485-1f3fb": {
 		"code_points": {
@@ -8781,7 +8781,7 @@
 		"emoji_order": "1266",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "diversity"]
+		"keywords": ["body"]
 	},
 	"1f442-1f3fb": {
 		"code_points": {
@@ -8865,7 +8865,7 @@
 		"emoji_order": "1272",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["body", "diversity"]
+		"keywords": ["body"]
 	},
 	"1f443-1f3fb": {
 		"code_points": {
@@ -9218,7 +9218,7 @@
 		"emoji_order": "1297",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["love", "symbol", "condolence"]
+		"keywords": ["love", "symbol"]
 	},
 	"1f49e": {
 		"code_points": {
@@ -11049,7 +11049,7 @@
 		"emoji_order": "1427",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["nature", "flower", "plant", "rip", "condolence"]
+		"keywords": ["nature", "flower", "plant", "rip"]
 	},
 	"1f338": {
 		"code_points": {
@@ -11106,7 +11106,7 @@
 		"emoji_order": "1431",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["nature", "flower", "plant", "rip", "condolence", "beautiful"]
+		"keywords": ["nature", "flower", "plant", "rip", "beautiful"]
 	},
 	"1f940": {
 		"code_points": {
@@ -13169,7 +13169,7 @@
 		"emoji_order": "1577",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["places", "wedding", "religion", "building", "condolence"]
+		"keywords": ["places", "wedding", "pray", "worship", "religious", "christian", "building"]
 	},
 	"1f54c": {
 		"code_points": {
@@ -13183,7 +13183,7 @@
 		"emoji_order": "1578",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["places", "religion", "building", "vacation", "condolence"]
+		"keywords": ["places", "religious", "pray", "muslim", "islam", "worship", "building"]
 	},
 	"1f54d": {
 		"code_points": {
@@ -13197,7 +13197,7 @@
 		"emoji_order": "1579",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["places", "religion", "building", "travel", "vacation", "condolence"]
+		"keywords": ["places", "religious", "worship", "pray", "building", "travel", "vacation", "jewish"]
 	},
 	"26e9": {
 		"code_points": {
@@ -13226,7 +13226,7 @@
 		"emoji_order": "1581",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["places", "religion", "building", "condolence"]
+		"keywords": ["places", "religious", "building"]
 	},
 	"26f2": {
 		"code_points": {
@@ -14462,7 +14462,7 @@
 		"emoji_order": "1673",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["bathroom", "tired", "diversity", "steam"]
+		"keywords": ["bathroom", "tired", "steam"]
 	},
 	"1f6c0-1f3fb": {
 		"code_points": {
@@ -15736,7 +15736,7 @@
 		"emoji_order": "1762",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["object", "birthday", "holidays", "cheers", "good", "girls night", "boys night", "parties"]
+		"keywords": ["object", "birthday", "holidays", "cheers", "good", "parties", "celebration"]
 	},
 	"1f38a": {
 		"code_points": {
@@ -19467,7 +19467,7 @@
 		"emoji_order": "2023",
 		"shortname_alternates": [":worship_symbol:"],
 		"ascii": [],
-		"keywords": ["religion", "symbol", "pray"]
+		"keywords": ["religious", "symbol", "pray", "christian", "muslim", "islam", "jewish"]
 	},
 	"269b": {
 		"code_points": {
@@ -19497,7 +19497,7 @@
 		"emoji_order": "2025",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "symbol"]
+		"keywords": ["religious", "symbol"]
 	},
 	"2721": {
 		"code_points": {
@@ -19512,7 +19512,7 @@
 		"emoji_order": "2026",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "jew", "star", "symbol"]
+		"keywords": ["religious", "jewish", "symbol"]
 	},
 	"2638": {
 		"code_points": {
@@ -19527,7 +19527,7 @@
 		"emoji_order": "2027",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "symbol"]
+		"keywords": ["religious", "symbol"]
 	},
 	"262f": {
 		"code_points": {
@@ -19551,13 +19551,13 @@
 			"fully_qualified": "271d-fe0f",
 			"decimal": "&#10013;"
 		},
-		"name": "latin cross",
+		"name": "christian cross",
 		"shortname": ":cross:",
 		"category": "symbols",
 		"emoji_order": "2029",
-		"shortname_alternates": [":latin_cross:"],
+		"shortname_alternates": [":christian:"],
 		"ascii": [],
-		"keywords": ["religion", "symbol"]
+		"keywords": ["religious", "symbol", "latin"]
 	},
 	"2626": {
 		"code_points": {
@@ -19572,7 +19572,7 @@
 		"emoji_order": "2030",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "symbol"]
+		"keywords": ["religious", "symbol", "russian"]
 	},
 	"262a": {
 		"code_points": {
@@ -19587,7 +19587,7 @@
 		"emoji_order": "2031",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "symbol"]
+		"keywords": ["religious", "symbol", "muslim", "islam"]
 	},
 	"262e": {
 		"code_points": {
@@ -19616,7 +19616,7 @@
 		"emoji_order": "2033",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "object", "jew", "symbol", "holidays"]
+		"keywords": ["religious", "object", "jewish", "symbol", "holidays"]
 	},
 	"1f52f": {
 		"code_points": {
@@ -19630,7 +19630,7 @@
 		"emoji_order": "2034",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["religion", "jew", "star", "symbol"]
+		"keywords": ["religious", "jewish", "symbol"]
 	},
 	"2648": {
 		"code_points": {
@@ -25917,7 +25917,7 @@
 		"emoji_order": "",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["people", "family", "child", "son", "father", "mother"]
+		"keywords": ["people", "family", "child", "kid", "son", "father", "mother"]
 	},
 	"1f540": {
 		"code_points": {
