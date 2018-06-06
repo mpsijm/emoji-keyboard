@@ -39,7 +39,7 @@
 		"emoji_order": "3",
 		"shortname_alternates": [],
 		"ascii": [":')", ":'-)"],
-		"keywords": ["happy", "smile", "silly", "cry", "laugh", "emotion", "sarcastic"]
+		"keywords": ["happy", "smile", "silly", "cry", "laugh", "emotion", "sarcastic", "lol"]
 	},
 	"1f923": {
 		"code_points": {
@@ -53,7 +53,7 @@
 		"emoji_order": "4",
 		"shortname_alternates": [":rolling_on_the_floor_laughing:"],
 		"ascii": [],
-		"keywords": []
+		"keywords": ["lol"]
 	},
 	"1f603": {
 		"code_points": {
@@ -109,7 +109,7 @@
 		"emoji_order": "8",
 		"shortname_alternates": [":satisfied:"],
 		"ascii": [">:)", ">;)", ">:-)", ">=)"],
-		"keywords": ["happy", "smile", "laugh", "emotion"]
+		"keywords": ["happy", "smile", "laugh", "emotion", "lol"]
 	},
 	"1f609": {
 		"code_points": {
@@ -1033,9 +1033,9 @@
 		"shortname": ":nauseated_face:",
 		"category": "people",
 		"emoji_order": "74",
-		"shortname_alternates": [":sick:"],
+		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["sick", "vomit"]
+		"keywords": ["sick", "vomit", "health"]
 	},
 	"1f927": {
 		"code_points": {
@@ -1050,6 +1050,20 @@
 		"shortname_alternates": [":sneeze:"],
 		"ascii": [],
 		"keywords": []
+	},
+	"1f92e": {
+		"code_points": {
+			"base": "1f92e",
+			"non_fully_qualified": "1f92e",
+			"decimal": "&#129326;"
+		},
+		"name": "vomitting face",
+		"shortname": ":vomit:",
+		"category": "people",
+		"emoji_order": "76",
+		"shortname_alternates": [":sick:", ":puke:"],
+		"ascii": [],
+		"keywords": ["sick", "puke", "health"]
 	},
 	"1f608": {
 		"code_points": {
@@ -1246,7 +1260,7 @@
 		"emoji_order": "89",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["happy", "smile", "silly", "cry", "laugh", "cat", "animal", "sarcastic"]
+		"keywords": ["happy", "smile", "silly", "cry", "laugh", "cat", "animal", "sarcastic", "lol"]
 	},
 	"1f63b": {
 		"code_points": {
@@ -15935,7 +15949,7 @@
 		"emoji_order": "1776",
 		"shortname_alternates": [],
 		"ascii": [],
-		"keywords": ["object", "game", "award", "win", "perfect", "parties"]
+		"keywords": ["object", "game", "award", "win", "perfect", "parties", "celebrate"]
 	},
 	"1f3c5": {
 		"code_points": {
