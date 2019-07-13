@@ -409,13 +409,13 @@ class Search(Gtk.Window):
 		self.set_resizable(False)
 		self.set_icon_name(shared.icon)
 		self.set_type_hint(Gdk.WindowTypeHint.NORMAL)
-		self.set_decorated(False)
+		self.set_decorated(True)
 		self.set_default_size(250, 45)
 		self.set_border_width(6)
 		self.connect('show', self.window_shown)
 		self.connect('delete-event', self.hide_window)
 		self.connect('configure-event', self.window_moved)
-		self.connect('focus-out-event', self.hide_window)
+		# self.connect('focus-out-event', self.hide_window)
 
 		self.entry = Gtk.Entry()
 		self.entry.connect('key-release-event', self.entry_key_release)
@@ -453,9 +453,7 @@ class Search(Gtk.Window):
 
 	def window_shown(self, window):
 
-		# this doesn't work well (window creeps with successive set/get!) and is
-		# completely broken with changes that hide window on focus-out
-		#self.move(*shared.settings['search_pos'])
+		self.move(*shared.settings['search_pos'])
 		shared.search_visible = True
 		self.entry.set_text("")
 		return False
