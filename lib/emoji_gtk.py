@@ -471,7 +471,7 @@ class Search(Gtk.Window):
 			self.select_first(self.entry)
 
 	def window_moved(self, window, event):
-		shared.settings['search_pos'] = (event.x, event.y)
+		shared.settings['search_pos'] = (event.x - 1, event.y - 24)
 
 	def set_model(self, entry):
 
