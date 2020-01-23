@@ -467,6 +467,8 @@ class Search(Gtk.Window):
 	def entry_key_release(self, window, event, data=None):
 		if event.keyval == Gdk.KEY_Escape:
 			self.hide_window(None, None)
+		if event.keyval == Gdk.KEY_Tab:
+			self.select_first(self.entry)
 
 	def window_moved(self, window, event):
 		shared.settings['search_pos'] = (event.x, event.y)
